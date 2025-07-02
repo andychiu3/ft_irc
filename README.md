@@ -45,11 +45,11 @@ with all this commands we can expect:
 
 ## Notes
 
-This is a collaborative 42 project developed with jmaio22
+This is a collaborative 42 project developed with [@jmaio22](https://github.com/jmaio22)
 
 **Team contributions:**
 
-jmaio22: Built the fundamental server architecture and client connection handling
+[@jmaio22](https://github.com/jmaio22): Built the fundamental server architecture and client connection handling
 
 me:  Implemented IRC commands, channel management and server replies
 
@@ -70,3 +70,10 @@ For quick testing and debugging, `netcat` or `telnet` can be used to connect dir
 This project follows 42 constraints with limited function access and specific coding standards, 
 
 so the implementation focuses on core IRC functionality rather than advanced features found in production IRC servers.
+
+<br>
+
+## References
+
+- [RFC 1459 - Internet Relay Chat Protocol](https://www.rfc-editor.org/rfc/rfc1459)
+- [RFC 2812 - Internet Relay Chat: Client Protocol](https://www.rfc-editor.org/rfc/rfc2812)
